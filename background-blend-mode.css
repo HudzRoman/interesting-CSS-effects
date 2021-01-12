@@ -1,0 +1,5 @@
+body{
+    background-image: url(img/bd-img2.jpg);
+    background-color: rgb(46, 54, 90);
+    background-blend-mode: luminosity;
+}
